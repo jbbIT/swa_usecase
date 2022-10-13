@@ -1,0 +1,3 @@
+Dies ist eine statische Website die nur aus HTML, JS und CSS besteht
+Sie stellt Anfragen an das Backend, dafür muss die Adresse des Backends in der Datei "assets/config.json" eingetragen sein
+Wenn das Backend steht und die Adresse eingetragen ist, sollte dieses Frontend, passend gehostet, auf das Backend zugreifen können
